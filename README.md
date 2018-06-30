@@ -3,13 +3,13 @@
 ## 机器学习基石
 ### When Can Machine Learn?
 1. **The Learning Problem**
->主要介绍了什么是机器学习，什么样的场合下可以使用机器学习解决问题，然后用流程图的形式展示了机器学习的整个过程，最后把机器学习和数据挖掘、人工智能、统计这三个领域做个比较。
+  >主要介绍了什么是机器学习，什么样的场合下可以使用机器学习解决问题，然后用流程图的形式展示了机器学习的整个过程，最后把机器学习和数据挖掘、人工智能、统计这三个领域做个比较。
 2. **Learning to Answer Yes/No**
->介绍了**线性感知机模型**，以及解决这类感知机分类问题的简单算法：**PLA**。我们详细证明了对于线性可分问题，PLA可以停下来并实现能够在平面中选择一条**直线**将样本数据完全正确分类。对于不是线性可分的问题，可以使用PLA的修正算法Pocket Algorithm来解决。
+  >介绍了**线性感知机模型**，以及解决这类感知机分类问题的简单算法：**PLA**。我们详细证明了对于线性可分问题，PLA可以停下来并实现能够在平面中选择一条**直线**将样本数据完全正确分类。对于不是线性可分的问题，可以使用PLA的修正算法Pocket Algorithm来解决。
 3. [Types of Learning](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture3%E2%80%94%E2%80%94Types-of-Learning)
->**机器学习的类型**，包括Out Space、Data Label、Protocol、Input Space四种类型。
+  >**机器学习的类型**，包括Out Space、Data Label、Protocol、Input Space四种类型。
 4. [Feasibility of Learning](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture4%E2%80%94%E2%80%94Feasibility-of-Learning)
->介绍了**机器学习的可行性**。首先引入NFL定理，说明机器学习无法找到一个g能够完全和目标函数f一样。接着介绍了可以采用一些统计上的假设，例如Hoeffding不等式，建立Ein和Eout的联系，证明对于某个h，当N足够大的时候，Ein和Eout是PAC的。最后，对于h个数很多的情况，只要有h个数M是有限的，且N足够大，就能保证Ein~Eout，证明机器学习是可行的。
+  >介绍了**机器学习的可行性**。首先引入NFL定理，说明机器学习无法找到一个g能够完全和目标函数f一样。接着介绍了可以采用一些统计上的假设，例如Hoeffding不等式，建立Ein和Eout的联系，证明对于某个h，当N足够大的时候，Ein和Eout是PAC的。最后，对于h个数很多的情况，只要有h个数M是有限的，且N足够大，就能保证Ein~Eout，证明机器学习是可行的。
 ### Why Can Machine Learn?
 5. [Training versus Testing](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture5%E2%80%94%E2%80%94Training-versus-Testing)
 6. [Theory of Generalization](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture6%E2%80%94%E2%80%94Theory-of-Generalization)
@@ -31,15 +31,15 @@
 * 哲学的讨论，理论推导，演算法分析，实物应用解说
 * 基本工具->复杂、实用模型
 * **特征转换**的三种主要技法：
-> 1. **Embedding Numerous Features**: how to **exploit** and **regularize** numerous features?
+  > 1. **Embedding Numerous Features**: how to **exploit** and **regularize** numerous features?
      <br>—inspires **Support Vector Machine** (SVM) model
-> <br>(很多特征：运用，控制复杂度)
-> 1. **Combining Predictive Features**: how to **construct** and **blend**(混合) predictive features?
+   <br>(很多特征：运用，控制复杂度)
+  > 1. **Combining Predictive Features**: how to **construct** and **blend**(混合) predictive features?
 <br>—inspires **Adaptive Boosting (AdaBoost)** model
-> <br>(预测性质的特征：找出，混合，逐步增强法)
-> 1. Distilling **Implicit Features**: how to **identify** and **learn** implicit features?
-> —inspires **Deep Learning** model
-> <br>(隐藏特征：学习)
+  > <br>(预测性质的特征：找出，混合，逐步增强法)
+  > 1. Distilling **Implicit Features**: how to **identify** and **learn** implicit features?
+  > —inspires **Deep Learning** model
+  > <br>(隐藏特征：学习)
 ### Embedding Numerous Features: Kernel Models
 1. [Linear Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-1:-Linear-Support-Vector-Machine)
 2. [Dual Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-2:-Dual-Support-Vector-Machine)
