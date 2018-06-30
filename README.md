@@ -26,6 +26,20 @@
 15. [Validation](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture15%E2%80%94%E2%80%94Validation)
 16. [Three Learning Principles](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture16%E2%80%94%E2%80%94Three-Learning-Principles)
 ## 机器学习技法
+### Course Design
+![image.png](https://upload-images.jianshu.io/upload_images/10860788-82be7f8fb9614e79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+* 哲学的讨论，理论推导，演算法分析，实物应用解说
+* 基本工具->复杂、实用模型
+* **特征转换**的三种主要技法：
+> 1. **Embedding Numerous Features**: how to **exploit** and **regularize** numerous features?
+     <br>—inspires **Support Vector Machine** (SVM) model
+> <br>(很多特征：运用，控制复杂度)
+> 1. **Combining Predictive Features**: how to **construct** and **blend**(混合) predictive features?
+<br>—inspires **Adaptive Boosting (AdaBoost)** model
+> <br>(预测性质的特征：找出，混合，逐步增强法)
+> 1. Distilling **Implicit Features**: how to **identify** and **learn** implicit features?
+> —inspires **Deep Learning** model
+> <br>(隐藏特征：学习)
 ### Embedding Numerous Features: Kernel Models
 1. [Linear Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-1:-Linear-Support-Vector-Machine)
 2. [Dual Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-2:-Dual-Support-Vector-Machine)
