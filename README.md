@@ -25,3 +25,23 @@
 14. [Regularization](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture14%E2%80%94%E2%80%94Regularization)
 15. [Validation](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture15%E2%80%94%E2%80%94Validation)
 16. [Three Learning Principles](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture16%E2%80%94%E2%80%94Three-Learning-Principles)
+## 机器学习技法
+### Embedding Numerous Features: Kernel Models
+1. [Linear Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-1:-Linear-Support-Vector-Machine)
+2. [Dual Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-2:-Dual-Support-Vector-Machine)
+3. [Kernel Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture3:-Kernel-Support-Vector-Machine)
+4. [Soft-Margin Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-4:-Soft-Margin-Support-Vector-Machine)
+5. [Kernel Logistic Regression](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-5:-Kernel-Logistic-Regression)
+6. [Support Vector Regression](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-6:-Support-Vector-Regression)
+### Combining Predictive Features: Aggregation Models
+7. [Blending and Bagging](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-7:-Blending-and-Bagging)
+8. [Adaptive Boosting](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-8:-Adaptive-Boosting)
+9. [Decision Tree](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-9:-Decision-Tree)
+10. [Random Forest](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-10:-Random-Forest)
+11. [Gradient Boosted Decision Tree](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-11:-Gradient-Boosted-Decision-Tree)
+### Distilling Implicit Features: Extraction Models
+12. [Neural Network](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-12:-Neural-Network)
+13. [Deep Learning](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-13:-Deep-Learning)
+14. [Radial Basis Function Network](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-14:-Radial-Basis-Function-Network)
+15. [Matrix Factorization](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-15:-Matrix-Factorization)
+16. [Finale](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-16:-Finale)
