@@ -42,8 +42,6 @@
    <br>(隐藏特征：学习)
 ### Embedding Numerous Features: Kernel Models
 1. [Linear Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-1:-Linear-Support-Vector-Machine)
-  > 二次规划（QP）问题
-  > <br>linear SVM: more robust and solvable with quadratic programming
 2. [Dual Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-2:-Dual-Support-Vector-Machine)
 3. [Kernel Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture3:-Kernel-Support-Vector-Machine)
 4. [Soft-Margin Support Vector Machine](https://github.com/LXxxxxxj/Machine-Learning/wiki/Lecture-4:-Soft-Margin-Support-Vector-Machine)
